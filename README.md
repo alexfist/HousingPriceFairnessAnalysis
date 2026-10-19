@@ -63,10 +63,6 @@ The MAPE-optimized model is fit using `scipy.optimize.minimize` with the BFGS me
 ```
 .
 ├── projA2.ipynb              # Main analysis notebook
-├── cook_county_train.csv     # Training data (not included; source: CCAO)
-├── cook_county_train_val.csv # Train + validation data
-├── cook_county_contest_test.csv  # Test data (no labels)
-├── cook_county_data.zip      # Compressed data archive
 ├── feature_func.py           # Feature engineering helpers from Part A1
 ├── codebook.txt              # Variable descriptions
 └── images/                   # Supporting images
