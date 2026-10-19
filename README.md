@@ -85,4 +85,3 @@ This project was completed as part of the UC Berkeley Data 100 curriculum and us
 - scikit-learn (LinearRegression, KFold, OneHotEncoder)
 - matplotlib, seaborn
 - scipy.optimize (BFGS for custom loss minimization)
-- Otter Grader (course autograder)
